@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "邪魔",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-12T08:00:08.082394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "邪魔",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_邪魔_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "邪魔",
+      "artist": "syudou feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_邪魔_syudou_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "邪魔 (self cover)",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/03_邪魔_(self_cover)_syudou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "邪魔",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_邪魔_syudou.txt"
+    }
+  ]
+}
